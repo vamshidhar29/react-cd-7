@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.btn-bg {
+  background-color: #382f5a;
+  color: #d4d2db;
+  border: solid 1px #d4d2db;
+  border-radius: 5px;
+  font-size: 30px;
+  width: 20vw;
+  height: 60px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.denomination-item {
+  list-style-type: none;
+}

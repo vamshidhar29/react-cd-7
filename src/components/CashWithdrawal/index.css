@@ -1,0 +1,77 @@
+/* Write your CSS here */
+.background {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #150b3e;
+  border-radius: 15px;
+  width: 60vw;
+  padding: 60px;
+  color: #d4d2db;
+  display: flex;
+  flex-direction: column;
+}
+
+.title-bg {
+  display: flex;
+}
+
+.circle-bg {
+  height: 80px;
+  width: 80px;
+  font-size: 40px;
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  border-radius: 40px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head-title {
+  align-self: center;
+}
+
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.balance-text {
+  color: #585076;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.rupees-value {
+  font-size: 40px;
+}
+
+.rupees-text {
+  color: #585076;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.choose-sum-text {
+  color: #585076;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.btns-bg {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.withdraw-text {
+  font-size: 50px;
+}
